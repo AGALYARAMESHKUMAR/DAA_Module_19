@@ -1,5 +1,4 @@
 # EX 1A Reverse a String
-## DATE:
 ## AIM:
 To write a program to create a recursive function to reverse a string.
 
@@ -17,6 +16,7 @@ Program to implement Reverse a String
 Developed by: Agalya R
 Register Number:  212222040003
 */
+```
 ```
 
 def reverse_string(s):
